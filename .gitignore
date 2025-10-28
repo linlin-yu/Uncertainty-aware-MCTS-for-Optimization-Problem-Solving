@@ -1,0 +1,8 @@
+# Ignore everything under the output directory
+output/
+*.pyc
+*.DS_Store
+ignore/
+__pycache__/
+.vscode/
+.env
